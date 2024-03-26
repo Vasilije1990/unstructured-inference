@@ -82,7 +82,7 @@ omegaconf==2.3.0
     # via effdet
 onnx==1.15.0
     # via -r requirements/base.in
-onnxruntime==1.15.1
+onnxruntime==1.16.0
     # via -r requirements/base.in
 opencv-python==4.8.1.78
     # via
